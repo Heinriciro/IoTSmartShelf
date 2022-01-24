@@ -1,0 +1,10 @@
+<!DOCTYPE RCC>
+<RCC version="1.0">
+<qresource>
+<file alias="icons/bluetooth.png">icons/bluetooth.png</file>
+<file alias="icons/Dataview.png">icons/Dataview.png</file>
+<file alias="icons/RecordItem.png">icons/RecordItem.png</file>
+<file alias="icons/Search.png">icons/Search.png</file>
+<file alias="icons/Writeitem.png">icons/Writeitem.png</file>
+</qresource>
+</RCC>
